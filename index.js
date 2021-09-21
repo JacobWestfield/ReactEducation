@@ -1,17 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Message from './Message';
+import Input from './Input.jsx';
 
 
-const MessageObj = {
-  header: 'Hello world',
-  text: 'This is my first React Application'
-};
+
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <Message data={MessageObj} />
+    <Input />
+    {/* <Output data={messages} /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
