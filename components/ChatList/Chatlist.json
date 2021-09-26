@@ -1,0 +1,18 @@
+[
+    {
+        "chat": "Messages",
+        "text": "Recent messages from corporation"
+    },
+    {
+        "chat": "News",
+        "text": "World news"
+    },
+    {
+        "chat": "Work",
+        "text": "New projects"
+    },
+    {
+        "chat": "Family",
+        "text": "Ideas of family trip"
+    }
+]

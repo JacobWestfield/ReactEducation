@@ -1,0 +1,81 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: sans-serif;
+}
+.inputDiv {
+  height: 30vh;
+  background-color: rgb(108, 191, 224);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.outputDiv {
+  height: 70vh;
+  background-color: rgb(223, 141, 116);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.text {
+  font-size: 20px;
+  color:white;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.authorInput {
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  background: transparent;
+}
+.messageInput {
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  background: transparent;
+}
+.button {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  border: 1px solid rgb(255, 254, 254);
+  box-shadow: 5px 5px 5px white;
+  margin-top: 20px;
+} */
+/* .box{
+
+  border-radius: 50px;
+  background: transparent;
+  animation: slide-top 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+
+  padding: 20px;
+  transform: translateY(100);
+}
+@keyframes slide-top {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100px);
+  }
+}
+.authorOutput {
+  font-size: 30px;
+  width: 300px;
+}
+.messageOutput {
+  font-size: 15px;
+  width: 300px;
+} */
